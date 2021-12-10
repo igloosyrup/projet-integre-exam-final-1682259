@@ -1,4 +1,4 @@
-package com.lacouf.al420565final;
+package com.lacouf.al420565final.util;
 
 import com.lacouf.al420565final.model.Client;
 
